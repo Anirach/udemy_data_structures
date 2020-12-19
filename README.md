@@ -10,3 +10,4 @@ This course covers the following topics:
 **Section 5:** Graphs.  
 
 Each section (2-5) explains how the data structure works, key methods, use cases, and walks through how to implement it in Python 3 code. 
+Check...Version
